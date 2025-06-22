@@ -46,7 +46,7 @@
   <tr>
     <td>
       <a href="https://github.com/Joanderj/tamanaco-sport">
-        <img src="https://www.desarrollodepaginasweb.com.mx/wp-content/uploads/2019/01/mantenimiento-de-páginas-web.jpg" alt="Tamanaco Sport" width="100%">
+        <img src="tamanaco.png" alt="Tamanaco Sport" width="100%">
       </a>
       <h3>Tamanaco Sport</h3>
       <p>Sistema integral de gestión empresarial con módulos completos</p>
@@ -62,7 +62,7 @@
     </td>
     <td>
       <a href="https://github.com/Joanderj/moda-elegante">
-        <img src="https://images-wixmp-530a50041672c69d335ba4cf.wixmp.com/templates/image/9068c4b31e8394dbfe11bdd6cc24f92f2574a195907aabf5f7c428b29588e796.jpg" alt="Moda Elegante" width="100%">
+        <img src="moda.png" alt="Moda Elegante" width="100%">
       </a>
       <h3>Moda Elegante</h3>
       <p>Plataforma e-commerce especializada en moda femenina</p>

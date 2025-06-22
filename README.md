@@ -41,17 +41,16 @@
 </p>
 
 ## 🚀 Mis Proyectos Destacados
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 30px 0;">
+<div style="display: flex; flex-wrap: nowrap; gap: 20px; overflow-x: auto; margin: 30px 0;">
 
 <!-- PROYECTO 1 - TAMANACO SPORT -->
-<div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-  <!-- Contenido igual que antes -->2
+<div style="flex: 0 0 48%; min-width: 300px; border: 1px solid #e1e4e8; border-radius: 8px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+  <!-- Contenido igual que antes -->1
 </div>
 
 <!-- PROYECTO 2 - MODA ELEGANTE -->
-<div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-  <!-- Contenido igual que antes -->1
+<div style="flex: 0 0 48%; min-width: 300px; border: 1px solid #e1e4e8; border-radius: 8px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+  <!-- Contenido igual que antes -->2
 </div>
 
 </div>

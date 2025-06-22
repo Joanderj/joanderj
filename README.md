@@ -34,14 +34,18 @@
 <div align="right">
 <a href="https://github.com/Joanderj">My GitHub Profile</a>
 </div>
-<div style="margin-bottom: 40px;"></div> <!-- Espacio de separación -->
+<hr>
+
+<p align="center">
+  <img src="https://gifs.org.es/gifs/2013/07/gifs-gatitos-suerte.gif" alt="Gatito de la suerte" width="200">
+</p>
 
 ## 🚀 Mis Proyectos Destacados
 
-<div style="display: flex; justify-content: space-between; gap: 20px; margin-top: 20px;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 30px 0;">
 
 <!-- PROYECTO 1 - TAMANACO SPORT -->
-<div style="width: 48%; border: 1px solid #e1e4e8; border-radius: 8px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+<div style="width: 45%; min-width: 300px; border: 1px solid #e1e4e8; border-radius: 8px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
   <a href="https://github.com/Joanderj/tamanaco-sport">
     <img width="100%" style="border-radius: 6px; margin-bottom: 12px;" src="https://www.desarrollodepaginasweb.com.mx/wp-content/uploads/2019/01/mantenimiento-de-páginas-web.jpg" alt="Tamanaco Sport">
   </a>
@@ -59,7 +63,7 @@
 </div>
 
 <!-- PROYECTO 2 - MODA ELEGANTE -->
-<div style="width: 48%; border: 1px solid #e1e4e8; border-radius: 8px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+<div style="width: 45%; min-width: 300px; border: 1px solid #e1e4e8; border-radius: 8px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
   <a href="https://github.com/Joanderj/moda-elegante">
     <img width="100%" style="border-radius: 6px; margin-bottom: 12px;" src="https://images-wixmp-530a50041672c69d335ba4cf.wixmp.com/templates/image/9068c4b31e8394dbfe11bdd6cc24f92f2574a195907aabf5f7c428b29588e796.jpg" alt="Moda Elegante">
   </a>

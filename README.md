@@ -1,4 +1,4 @@
-<p align = center ><img src="Welcome To Our.png"> </p>
+<p align = center ><img src="banner.png"> </p>
 
 <div>
 

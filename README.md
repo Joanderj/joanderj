@@ -35,6 +35,8 @@
 <a href="https://github.com/Joanderj">My GitHub Profile</a>
 </div>
 </div>
+</div>
+</div>
 <hr>
 ## 🚀 Mis Proyectos Destacados
 

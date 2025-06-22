@@ -35,19 +35,47 @@
 <a href="https://github.com/Joanderj">My GitHub Profile</a>
 </div>
 
+## 🚀 Mis Proyectos Destacados
 
 <table>
   <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=JdJ2VBbYYTQ"><img width="140px" src="https://i.ytimg.com/vi/JdJ2VBbYYTQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=JdJ2VBbYYTQ">Getting the user's location with JavaScript (Geolocation API tutorial)</a><br/>Dec 22, 2020</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=WZNG8UomjSI"><img width="140px" src="https://i.ytimg.com/vi/WZNG8UomjSI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=WZNG8UomjSI">Build a Weather App with HTML, CSS & JavaScript</a><br/>Dec 10, 2020</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=BVX7kZ4GM-g"><img width="140px" src="https://i.ytimg.com/vi/BVX7kZ4GM-g/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=BVX7kZ4GM-g">Making a Responsive (Birthday) Card with HTML and CSS</a><br/>Dec 1, 2020</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=gU7b5Vgnalw"><img width="140px" src="https://i.ytimg.com/vi/gU7b5Vgnalw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=gU7b5Vgnalw">How to Create Custom Snippets for Any Language in VS Code</a><br/>Nov 17, 2020</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=5ecM9n7A_pY"><img width="140px" src="https://i.ytimg.com/vi/5ecM9n7A_pY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=5ecM9n7A_pY">How to Type HTML and CSS Faster with Emmet</a><br/>Nov 10, 2020</td></tr>
-<!-- YOUTUBE:END -->
-</tbody>
-  </table> 
+    <!-- PROYECTO 1 -->
+    <tr>
+      <td width="140px">
+        <a href="https://github.com/Joanderj/tamanaco-sport">
+          <img width="140px" src="https://www.desarrollodepaginasweb.com.mx/wp-content/uploads/2019/01/mantenimiento-de-páginas-web.jpg" alt="Tamanaco Sport">
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Joanderj/tamanaco-sport">
+          <strong>Tamanaco Sport - Sistema Integral de Gestión</strong>
+        </a>
+        <br/>
+        Sistema completo para gestión empresarial con módulos de mantenimiento, inventario, compras y personal.
+        <br/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js">
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
+      </td>
+    </tr>
+    <!-- PROYECTO 2 -->
+    <tr>
+      <td width="140px">
+        <a href="https://github.com/Joanderj/moda-elegante">
+          <img width="140px" src="https://images-wixmp-530a50041672c69d335ba4cf.wixmp.com/templates/image/9068c4b31e8394dbfe11bdd6cc24f92f2574a195907aabf5f7c428b29588e796.jpg" alt="Moda Elegante">
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Joanderj/moda-elegante">
+          <strong>Moda Elegante - E-commerce de Moda</strong>
+        </a>
+        <br/>
+        Plataforma moderna para venta de ropa y accesorios femeninos con diseño UI/UX avanzado.
+        <br/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js">
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind">
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase">
+      </td>
+    </tr>
+  </tbody>
+</table>

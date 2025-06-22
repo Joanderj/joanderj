@@ -1,6 +1,6 @@
 # Hola, soy NaneCode Studio 👋
 
-![Banner de NaneCode Studio](https://via.placeholder.com/1920x500/33363C/FFFFFF?text=NaneCode+Studio+-+Full+Stack+Developer)  
+![Banner de NaneCode Studio](https://design-assets.adobeprojectm.com/content/download/express/public/urn:aaid:sc:VA6C2:be9e4f3d-b6d4-5597-99c9-00157b219f32/component?assetType=TEMPLATE&etag=f8f622769bd747e4a57fb635b577158e&revision=9055e5a4-94f4-471b-995a-bda729b1e1de&component_id=ce2b6baf-5170-48db-9d7d-b48397f6e85a)  
 *[Reemplazar con tu banner personalizado]*
 
 ## 🌟 Conéctate conmigo
@@ -31,7 +31,7 @@ Mi enfoque combina funcionalidad robusta con interfaces intuitivas para optimiza
 <div>
 
 ### Tamanaco Sport - Sistema Integral
-[![Tamanaco Sport](https://via.placeholder.com/800x450/33363C/FFFFFF?text=Tamanaco+Sport+-+Sistema+Integral)](https://github.com/Joanderj/tamanaco-sport)
+[![Tamanaco Sport](https://www.desarrollodepaginasweb.com.mx/wp-content/uploads/2019/01/mantenimiento-de-páginas-web.jpg)
 
 Sistema completo de gestión empresarial desarrollado para Tamanaco Sport Venezuela que incluye:
 - Módulo de mantenimiento con planificación de tareas
@@ -48,7 +48,7 @@ Sistema completo de gestión empresarial desarrollado para Tamanaco Sport Venezu
 <div>
 
 ### Moda Elegante - E-commerce
-[![Moda Elegante](https://via.placeholder.com/800x450/33363C/FFFFFF?text=Moda+Elegante+-+E-commerce+Moderno)](https://github.com/Joanderj/moda-elegante)
+[![Moda Elegante](https://images-wixmp-530a50041672c69d335ba4cf.wixmp.com/templates/image/9068c4b31e8394dbfe11bdd6cc24f92f2574a195907aabf5f7c428b29588e796.jpg)
 
 Plataforma de comercio electrónico moderna para venta de ropa y accesorios femeninos:
 - Diseño UI/UX moderno y atractivo

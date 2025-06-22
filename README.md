@@ -34,7 +34,7 @@
 <div align="right">
 <a href="https://github.com/Joanderj">My GitHub Profile</a>
 </div>
-
+<hr>
 ## 🚀 Mis Proyectos Destacados
 
 <table>

@@ -34,7 +34,7 @@
 <div align="right">
 <a href="https://github.com/Joanderj">My GitHub Profile</a>
 </div>
-<hr>
+
 
 <p align="center">
   <img src="https://gifs.org.es/gifs/2013/07/gifs-gatitos-suerte.gif" alt="Gatito de la suerte" width="200">

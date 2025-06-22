@@ -47,7 +47,7 @@
 <!-- PROYECTO 1 - TAMANACO SPORT -->
 <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
   <a href="https://github.com/Joanderj/tamanaco-sport">
-    <img width="100%" style="border-radius: 6px; margin-bottom: 12px;" src="https://www.desarrollodepaginasweb.com.mx/wp-content/uploads/2019/01/mantenimiento-de-páginas-web.jpg" alt="Tamanaco Sport">
+    <img width="100%" style="border-radius: 6px; margin-bottom: 12px;" src="1https://www.desarrollodepaginasweb.com.mx/wp-content/uploads/2019/01/mantenimiento-de-páginas-web.jpg" alt="Tamanaco Sport">
   </a>
   <h3 style="margin-top: 0; margin-bottom: 8px;">Tamanaco Sport</h3>
   <p style="margin-top: 0; margin-bottom: 12px; color: #586069;">Sistema integral de gestión empresarial con módulos completos</p>
@@ -65,7 +65,7 @@
 <!-- PROYECTO 2 - MODA ELEGANTE -->
 <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
   <a href="https://github.com/Joanderj/moda-elegante">
-    <img width="100%" style="border-radius: 6px; margin-bottom: 12px;" src="https://images-wixmp-530a50041672c69d335ba4cf.wixmp.com/templates/image/9068c4b31e8394dbfe11bdd6cc24f92f2574a195907aabf5f7c428b29588e796.jpg" alt="Moda Elegante">
+    <img width="100%" style="border-radius: 6px; margin-bottom: 12px;" src="1https://images-wixmp-530a50041672c69d335ba4cf.wixmp.com/templates/image/9068c4b31e8394dbfe11bdd6cc24f92f2574a195907aabf5f7c428b29588e796.jpg" alt="Moda Elegante">
   </a>
   <h3 style="margin-top: 0; margin-bottom: 8px;">Moda Elegante</h3>
   <p style="margin-top: 0; margin-bottom: 12px; color: #586069;">Plataforma e-commerce especializada en moda femenina</p>

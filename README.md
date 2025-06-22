@@ -40,11 +40,7 @@
   </div>
   </div>
 
-------
-Credit: [zillastar](https://github.com/zillastar)
 
-Last Edited on: 12/11/2022
-<hr>  
 <table>
   <tbody>
 <!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=JdJ2VBbYYTQ"><img width="140px" src="https://i.ytimg.com/vi/JdJ2VBbYYTQ/mqdefault.jpg"></a></td>

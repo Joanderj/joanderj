@@ -26,6 +26,10 @@ Mi enfoque combina funcionalidad robusta con interfaces intuitivas para optimiza
 
 ## 🚀 Proyectos Destacados
 
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
+
+<div>
+
 ### Tamanaco Sport - Sistema Integral
 [![Tamanaco Sport](https://via.placeholder.com/800x450/33363C/FFFFFF?text=Tamanaco+Sport+-+Sistema+Integral)](https://github.com/Joanderj/tamanaco-sport)
 
@@ -37,9 +41,11 @@ Sistema completo de gestión empresarial desarrollado para Tamanaco Sport Venezu
 - Dashboard con estadísticas y reportes avanzados
 - Interfaz intuitiva y responsive
 
-Tecnologías: React, Node.js, Express, MongoDB, Chart.js
+**Tecnologías:** React, Node.js, Express, MongoDB, Chart.js
 
----
+</div>
+
+<div>
 
 ### Moda Elegante - E-commerce
 [![Moda Elegante](https://via.placeholder.com/800x450/33363C/FFFFFF?text=Moda+Elegante+-+E-commerce+Moderno)](https://github.com/Joanderj/moda-elegante)
@@ -52,7 +58,11 @@ Plataforma de comercio electrónico moderna para venta de ropa y accesorios feme
 - Sistema de recomendaciones personalizadas
 - Versión mobile-first optimizada
 
-Tecnologías: Next.js, Tailwind CSS, Stripe API, Firebase
+**Tecnologías:** Next.js, Tailwind CSS, Stripe API, Firebase
+
+</div>
+
+</div>
 
 ## 💡 Habilidades Técnicas
 

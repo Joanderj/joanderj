@@ -34,42 +34,47 @@
 <div align="right">
 <a href="https://github.com/Joanderj">My GitHub Profile</a>
 </div>
+</div>
 <hr>
 ## 🚀 Mis Proyectos Destacados
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 20px; margin-bottom: 30px;">
+<div style="display: flex; gap: 20px; margin: 30px 0;">
 
 <!-- PROYECTO 1 - TAMANACO SPORT -->
-<div style="width: 48%;">
+<div style="flex: 1; min-width: 300px;">
   <a href="https://github.com/Joanderj/tamanaco-sport">
-    <img width="100%" src="https://www.desarrollodepaginasweb.com.mx/wp-content/uploads/2019/01/mantenimiento-de-páginas-web.jpg" alt="Tamanaco Sport" style="border-radius: 8px; margin-bottom: 10px;">
+    <img width="100%" style="border-radius: 8px; border: 1px solid #ddd;" src="https://www.desarrollodepaginasweb.com.mx/wp-content/uploads/2019/01/mantenimiento-de-páginas-web.jpg" alt="Tamanaco Sport">
   </a>
-  <h3>Tamanaco Sport - Sistema Integral</h3>
-  <p>Sistema completo de gestión empresarial con módulos de mantenimiento, inventario, compras y personal.</p>
-  <div style="display: flex; gap: 8px; flex-wrap: wrap;">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
+  <div style="padding: 15px 0;">
+    <h3 style="margin: 5px 0 10px 0;">Tamanaco Sport</h3>
+    <p style="margin: 0 0 10px 0; color: #666;">Sistema integral de gestión empresarial</p>
+    <div style="display: flex; flex-wrap: wrap; gap: 5px;">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white">
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white">
+    </div>
   </div>
 </div>
 
 <!-- PROYECTO 2 - MODA ELEGANTE -->
-<div style="width: 48%;">
+<div style="flex: 1; min-width: 300px;">
   <a href="https://github.com/Joanderj/moda-elegante">
-    <img width="100%" src="https://images-wixmp-530a50041672c69d335ba4cf.wixmp.com/templates/image/9068c4b31e8394dbfe11bdd6cc24f92f2574a195907aabf5f7c428b29588e796.jpg" alt="Moda Elegante" style="border-radius: 8px; margin-bottom: 10px;">
+    <img width="100%" style="border-radius: 8px; border: 1px solid #ddd;" src="https://images-wixmp-530a50041672c69d335ba4cf.wixmp.com/templates/image/9068c4b31e8394dbfe11bdd6cc24f92f2574a195907aabf5f7c428b29588e796.jpg" alt="Moda Elegante">
   </a>
-  <h3>Moda Elegante - E-commerce</h3>
-  <p>Plataforma moderna para venta de ropa y accesorios femeninos con diseño UI/UX avanzado.</p>
-  <div style="display: flex; gap: 8px; flex-wrap: wrap;">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
-    <img src="https://img.shields.io/badge/Anime.js-2C2D36?style=for-the-badge&logo=anime.js&logoColor=white" alt="Anime.js">
+  <div style="padding: 15px 0;">
+    <h3 style="margin: 5px 0 10px 0;">Moda Elegante</h3>
+    <p style="margin: 0 0 10px 0; color: #666;">E-commerce de moda femenina</p>
+    <div style="display: flex; flex-wrap: wrap; gap: 5px;">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white">
+      <img src="https://img.shields.io/badge/Anime.js-2C2D36?style=flat-square&logo=anime.js&logoColor=white">
+    </div>
   </div>
 </div>
 

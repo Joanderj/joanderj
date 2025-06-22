@@ -46,12 +46,12 @@
 
 <!-- PROYECTO 1 - TAMANACO SPORT -->
 <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-  <!-- Contenido igual que antes -->
+  <!-- Contenido igual que antes -->2
 </div>
 
 <!-- PROYECTO 2 - MODA ELEGANTE -->
 <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-  <!-- Contenido igual que antes -->
+  <!-- Contenido igual que antes -->1
 </div>
 
 </div>
